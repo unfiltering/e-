@@ -27,7 +27,7 @@
           "date": "2024-4-22T13:30:00Z",
           "localizedDescription": "Genius Fallback: Load lyrics from Genius if there is a problem with LRCLIB or Musixmatch\nUpdated OpenSpotifySafariExtension: Now supports all Spotify links and works great\nDark PopUps optionImproved lyrics colors (not so light and washed out, looks more like the original)\nImproved song search algorithm on Genius or LRCLIB\nFixed EeveeSpotify settings crash when tapping on tabbar\nUpdated Musixmatch token alert message; the tweak now allows you to paste debug info",
           "downloadURL": "https://raw.githubusercontent.com/unfiltering/e-/main/ipa/EeveeSpotify.ipa",
-          "size": "71198"
+          "size": 71198
         }
       ]
     }

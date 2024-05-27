@@ -13,11 +13,14 @@
         "beta": false,
         "size": 9195339,
         "localizedDescription": "This tweak makes Spotify think that you have a Premium subscription, granting free listening, just like Spotilife.",
-        "iconURL": "https://raw.githubusercontent.com/unfiltering/e-/main/spotify.png",
+        "iconURL": "https://raw.githubusercontent.com/unfiltering/e-/main/spotify/logo.png",
         "tintColor": "1DB954",
         "downloadURL": "https://raw.githubusercontent.com/unfiltering/e-/main/ipa/EeveeSpotify.ipa",
         "screenshotURLs": [
-        ],
+		"https://raw.githubusercontent.com/unfiltering/e-/main/spotify/ss1.png",
+		"https://raw.githubusercontent.com/unfiltering/e-/main/spotify/ss2.png",
+		"https://raw.githubusercontent.com/unfiltering/e-/main/spotify/ss3.png"
+	],
         "versions": [
           {
             "version": "1,

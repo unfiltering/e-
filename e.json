@@ -37,9 +37,9 @@
     {
       "title": "Unfiltering's Repository",
       "identifier": "unfilert",
-      "caption": "Loaded",
+      "caption": "Loaded.",
       "tintColor": "A405FA",
-      "url": "https://docs.sidestore.io",
+      "url": "https://github.com/unfiltering/e-/",
       "date": "2050-01-02",
       "notify": false
     }

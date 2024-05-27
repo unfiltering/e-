@@ -31,5 +31,17 @@
         }
       ]
     }
+  ],
+  "news":
+  [
+    {
+      "title": "Welcome to UNFILTERING!",
+      "identifier": "welcome",
+      "caption": "Check out the farts 0ut for more info",
+      "tintColor": "A405FA",
+      "url": "https://docs.sidestore.io",
+      "date": "2050-01-02",
+      "notify": false
+    },
   ]
 }

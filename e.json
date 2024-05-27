@@ -33,7 +33,7 @@
     },
     {
       "name": "Flightradar24 Gold",
-      "bundleIdentifier": "se.resenatverket.FlightRadar24",
+      "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
       "developerName": "Resenat Verket",
       "version": "9.22.0",
       "versionDate": "2024-4-22T13:30:00Z",
@@ -53,7 +53,7 @@
         {
           "version": "9.22.0",
           "date": "2024-4-22T13:30:00Z",
-          "localizedDescription": "Added app.",
+          "localizedDescription": "Added app, give gold subscription.",
           "downloadURL": "https://raw.githubusercontent.com/unfiltering/e-/main/ipa/FlightradarGold.ipa",
           "size": 96912
         }
@@ -65,9 +65,9 @@
     {
       "title": "Unfiltering's Repository",
       "identifier": "unfilert",
-      "caption": "Loaded",
+      "caption": "Loaded.",
       "tintColor": "A405FA",
-      "url": "https://docs.sidestore.io",
+      "url": "https://github.com/unfiltering/e-/",
       "date": "2050-01-02",
       "notify": false
     }

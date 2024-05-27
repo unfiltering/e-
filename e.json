@@ -1,0 +1,35 @@
+{
+  "name": "Unfiltering's IPA Repository",
+  "identifier": "com.unfiltering.repo",
+  "sourceURL": "https://raw.githubusercontent.com/unfiltering/e-/main/e.json",
+  "apps": [
+    {
+      "name": "Spotify Eevee",
+      "bundleIdentifier": "com.Spotify.client",
+      "developerName": "whoeevee",
+      "version": "3.1",
+      "versionDate": "2024-4-22T13:30:00Z",
+      "versionDescription": "This tweak makes Spotify think that you have a Premium subscription, granting free listening, just like Spotilife.",
+      "beta": false,
+      "size": 71198,
+      "localizedDescription": "This tweak makes Spotify think that you have a Premium subscription, granting free listening, just like Spotilife.",
+      "iconURL": "https://raw.githubusercontent.com/unfiltering/e-/main/spotify/logo.png",
+      "tintColor": "1DB954",
+      "downloadURL": "https://raw.githubusercontent.com/unfiltering/e-/main/ipa/EeveeSpotify.ipa",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/unfiltering/e-/main/spotify/ss1.png",
+        "https://raw.githubusercontent.com/unfiltering/e-/main/spotify/ss2.png",
+        "https://raw.githubusercontent.com/unfiltering/e-/main/spotify/ss3.png"
+      ],
+      "versions": [
+        {
+          "version": "3.1",
+          "date": "2024-4-22T13:30:00Z",
+          "localizedDescription": "Genius Fallback: Load lyrics from Genius if there is a problem with LRCLIB or Musixmatch\nUpdated OpenSpotifySafariExtension: Now supports all Spotify links and works great\nDark PopUps optionImproved lyrics colors (not so light and washed out, looks more like the original)\nImproved song search algorithm on Genius or LRCLIB\nFixed EeveeSpotify settings crash when tapping on tabbar\nUpdated Musixmatch token alert message; the tweak now allows you to paste debug info",
+          "downloadURL": "https://raw.githubusercontent.com/unfiltering/e-/main/ipa/EeveeSpotify.ipa",
+          "size": "71198"
+        }
+      ]
+    }
+  ]
+}

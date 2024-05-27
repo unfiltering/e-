@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "Spotify Eevee",
-      "bundleIdentifier": "com.Spotify.client",
+      "bundleIdentifier": "com.spotify.client",
       "developerName": "whoeevee",
       "version": "3.1",
       "versionDate": "2024-4-22T13:30:00Z",
@@ -25,7 +25,7 @@
         {
           "version": "3.1",
           "date": "2024-4-22T13:30:00Z",
-          "localizedDescription": "Genius Fallback: Load lyrics from Genius if there is a problem with LRCLIB or Musixmatch\nUpdated OpenSpotifySafariExtension: Now supports all Spotify links and works great\nDark PopUps optionImproved lyrics colors (not so light and washed out, looks more like the original)\nImproved song search algorithm on Genius or LRCLIB\nFixed EeveeSpotify settings crash when tapping on tabbar\nUpdated Musixmatch token alert message; the tweak now allows you to paste debug info",
+          "localizedDescription": "- Genius Fallback: Load lyrics from Genius if there is a problem with LRCLIB or Musixmatch\n\n- Updated OpenSpotifySafariExtension: Now supports all Spotify links and works great\n\n- Dark PopUps optionImproved lyrics colors (not so light and washed out, looks more like the original)\n\n- Improved song search algorithm on Genius or LRCLIB\n\n- Fixed EeveeSpotify settings crash when tapping on tabbar\n\n- Updated Musixmatch token alert message; the tweak now allows you to paste debug info",
           "downloadURL": "https://raw.githubusercontent.com/unfiltering/e-/main/ipa/EeveeSpotify.ipa",
           "size": 71198
         }
@@ -35,18 +35,9 @@
   "news":
   [
     {
-      "title": "Welcome to UNFILTERING!",
-      "identifier": "welcome",
-      "caption": "Check out the farts 0ut for more info",
-      "tintColor": "A405FA",
-      "url": "https://docs.sidestore.io",
-      "date": "2050-01-02",
-      "notify": false
-    },
-        {
-      "title": "idiotic fucking repositiory",
-      "identifier": "e",
-      "caption": "doesn't like to fuckign update well fuck u",
+      "title": "Unfiltering's Repository",
+      "identifier": "unfilert",
+      "caption": "Loaded",
       "tintColor": "A405FA",
       "url": "https://docs.sidestore.io",
       "date": "2050-01-02",

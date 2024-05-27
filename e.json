@@ -43,5 +43,14 @@
       "date": "2050-01-02",
       "notify": false
     },
+        {
+      "title": "idiotic fucking repositiory",
+      "identifier": "e",
+      "caption": "doesn't like to fuckign update well fuck u",
+      "tintColor": "A405FA",
+      "url": "https://docs.sidestore.io",
+      "date": "2050-01-02",
+      "notify": false
+    }
   ]
 }

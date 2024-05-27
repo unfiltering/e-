@@ -30,6 +30,34 @@
           "size": 71198
         }
       ]
+    },
+    {
+      "name": "Flightradar24 Gold",
+      "bundleIdentifier": "se.resenatverket.FlightRadar24",
+      "developerName": "Resenat Verket",
+      "version": "9.22.0",
+      "versionDate": "2024-4-22T13:30:00Z",
+      "versionDescription": "This tweak gives the user Flightradar24 gold for free.",
+      "beta": false,
+      "size": 96912,
+      "localizedDescription": "This tweak gives the user Flightradar24 gold for free.",
+      "iconURL": "https://raw.githubusercontent.com/unfiltering/e-/main/flightradar/logo.png",
+      "tintColor": "ADDFFF",
+      "downloadURL": "https://raw.githubusercontent.com/unfiltering/e-/main/ipa/FlightradarGold.ipa",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/unfiltering/e-/main/flightradar/ss1.png",
+        "https://raw.githubusercontent.com/unfiltering/e-/main/flightradar/ss2.png",
+        "https://raw.githubusercontent.com/unfiltering/e-/main/flightradar/ss3.png"
+      ],
+      "versions": [
+        {
+          "version": "9.22.0",
+          "date": "2024-4-22T13:30:00Z",
+          "localizedDescription": "Added app.",
+          "downloadURL": "https://raw.githubusercontent.com/unfiltering/e-/main/ipa/FlightradarGold.ipa",
+          "size": 96912
+        }
+      ]
     }
   ],
   "news":

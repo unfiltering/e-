@@ -3,8 +3,7 @@
   "identifier": "com.unfiltering.repo",
   "sourceURL": "https://raw.githubusercontent.com/unfiltering/e-/main/e.json",
     "apps": 
-    [
-      {
+    [{
         "name": "Spotify Eevee",
         "bundleIdentifier": "com.Spotify.client",
         "developerName": "whoeevee",
@@ -27,17 +26,8 @@
             "downloadURL": "https://raw.githubusercontent.com/unfiltering/e-/main/ipa/EeveeSpotify.ipa",
             "size": "0"
           }
-      ]
+       ]
     }
-  ],
-  "news": [
-    {
-      "title": "Unfiltering's IPA Repository",
-      "identifier": "B",
-      "caption": "Yes its made by me yayy have fun games and dead people.",
-      "tintColor": "912F8D",
-      "date": "2023-5-27",
-      "notify": false
-    }
-  ]
+   ],
+  "news": []
 }

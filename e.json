@@ -11,7 +11,7 @@
       "versionDate": "2024-4-22T13:30:00Z",
       "versionDescription": "This tweak makes Spotify think that you have a Premium subscription, granting free listening, just like Spotilife.",
       "beta": false,
-      "size": 71198,
+      "size": 72906034,
       "localizedDescription": "This tweak makes Spotify think that you have a Premium subscription, granting free listening, just like Spotilife.",
       "iconURL": "https://raw.githubusercontent.com/unfiltering/e-/main/spotify/logo.png",
       "tintColor": "1DB954",
@@ -27,7 +27,7 @@
           "date": "2024-4-22T13:30:00Z",
           "localizedDescription": "- Genius Fallback: Load lyrics from Genius if there is a problem with LRCLIB or Musixmatch\n\n- Updated OpenSpotifySafariExtension: Now supports all Spotify links and works great\n\n- Dark PopUps optionImproved lyrics colors (not so light and washed out, looks more like the original)\n\n- Improved song search algorithm on Genius or LRCLIB\n\n- Fixed EeveeSpotify settings crash when tapping on tabbar\n\n- Updated Musixmatch token alert message; the tweak now allows you to paste debug info",
           "downloadURL": "https://raw.githubusercontent.com/unfiltering/e-/main/ipa/EeveeSpotify.ipa",
-          "size": 71198
+          "size": 72906034
         }
       ]
     },
@@ -39,7 +39,7 @@
       "versionDate": "2024-4-22T13:30:00Z",
       "versionDescription": "This tweak gives the user Flightradar24 gold for free.",
       "beta": false,
-      "size": 96912,
+      "size": 99237102,
       "localizedDescription": "This tweak gives the user Flightradar24 gold for free.",
       "iconURL": "https://raw.githubusercontent.com/unfiltering/e-/main/flightradar/logo.png",
       "tintColor": "ADDFFF",
@@ -55,7 +55,7 @@
           "date": "2024-4-22T13:30:00Z",
           "localizedDescription": "Added app, give gold subscription.",
           "downloadURL": "https://raw.githubusercontent.com/unfiltering/e-/main/ipa/FlightradarGold.ipa",
-          "size": 96912
+          "size": 99237102
         }
       ]
     }
